@@ -35,4 +35,4 @@ Luca là sản phẩm đầu tiên do The Kirin Lab phát triển nhằm giải 
 ### Liên hệ
 Nếu bạn thấy phù hợp, xin hãy liên hệ và gửi CV cho chúng tôi tới email career@thekirinlab.com
 
-![Job Poster](/images/K02Edas.png)
+![Job Poster](/images/FE.png)
