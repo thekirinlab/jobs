@@ -29,8 +29,10 @@ Remote, từ T2 - T6 (9h - 18h múi giờ Việt Nam)
 * Design và API document đầy đủ, rõ ràng
 
 ### Về chúng tôi
-Mục tiêu của The Kirin Lab là phát triển các ứng dụng tốt nhất để giúp khách hàng hiện thực hoá mô hình kinh doanh. Phần lớn khách hàng của chúng tôi là các công ty khởi nghiệp nước ngoài. 
+Mục tiêu của The Kirin Lab là phát triển các ứng dụng tốt nhất để giúp khách hàng hiện thực hoá mô hình kinh doanh. Phần lớn khách hàng của chúng tôi là các công ty khởi nghiệp nước ngoài.
 Luca là sản phẩm đầu tiên do The Kirin Lab phát triển nhằm giải quyết những nhu cầu hiện có của các trung tâm dạy trẻ đặc biệt. Bạn có thể tìm hiểu thêm thông tin về công ty trên trang web www.thekirinlab.com
 
 ### Liên hệ
 Nếu bạn thấy phù hợp, xin hãy liên hệ và gửi CV cho chúng tôi tới email career@thekirinlab.com
+
+![Job Poster](/images/K02Edas.png)
