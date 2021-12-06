@@ -16,8 +16,7 @@ Remote, từ T2 - T6 (9h - 18h múi giờ Việt Nam)
 * Có tinh thần cầu tiến và học hỏi
 
 ## Yêu cầu
-* Có kinh nghiệm làm việc với Elixir/Phoenix hoặc Ruby/Rails
-* Có ít nhất 1 năm kinh nghiệm làm Backend
+* Có ít nhất 2 năm kinh nghiệm làm việc với React Native
 * Có khả năng độc lập tác chiến.
 * Chịu trách nhiệm, chủ động trong công việc
 * Có tinh thần cầu tiến và học hỏi
@@ -38,3 +37,5 @@ Mục tiêu của The Kirin Lab là phát triển các ứng dụng tốt nhất
 
 ## Liên hệ
 Nếu bạn thấy phù hợp, xin hãy liên hệ và gửi CV cho chúng tôi tới email career@thekirinlab.com
+
+![Job Poster](/images/react_dec_2021.png)
