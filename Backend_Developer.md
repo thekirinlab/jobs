@@ -1,7 +1,7 @@
 The Kirin Lab cần tuyển Backend Developer giúp phát triển từ đầu API cho ứng dụng mobile của khách hàng. Đây là sản phẩm đầu tiên giúp người dùng mua và bán xe ô tô qua ứng dụng ở thị trường Úc.
 
 ## Thời gian, địa điểm
-Remote, từ T2 - T6 (9h - 18h múi giờ Việt Nam)
+Fulltime Remote, từ T2 - T6 (9h - 18h múi giờ Việt Nam), toàn thời gian
 
 ## Mô tả công việc
 * Phát triền các tính năng mới cho app theo yêu cầu tính năng, thiết kế và UX dùng Elixir và Phoenix
