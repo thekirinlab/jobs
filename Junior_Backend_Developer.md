@@ -1,4 +1,4 @@
-The Kirin Lab cần tuyển các bạn sinh viên mới ra trường, các bạn intern toàn thời gian cho vị trí Junior Backend Developer giúp phát triển từ đầu API cho ứng dụng mobile của khách hàng. Đây là sản phẩm đầu tiên giúp người dùng mua và bán xe ô tô qua ứng dụng ở thị trường Úc.
+The Kirin Lab cần tuyển các bạn sinh viên 1-2 năm kinh nghiệm hoặc mới ra trường, các bạn intern toàn thời gian cho vị trí Junior Backend Developer giúp phát triển từ đầu API cho ứng dụng mobile của khách hàng. Đây là sản phẩm đầu tiên giúp người dùng mua và bán xe ô tô qua ứng dụng ở thị trường Úc.
 
 ## Thời gian, địa điểm
 * 2 vị trí Fulltime Remote, từ T2 - T6 (9h - 18h múi giờ Việt Nam)
