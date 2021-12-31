@@ -1,8 +1,7 @@
 The Kirin Lab cần tuyển UI Designer, thiết kế các sản phẩm cho thị trường Úc, Singapore, Malaysia và Việt Nam.
 
 ## Thời gian, địa điểm
-Fulltime Remote, từ T2 - T6 (9h - 18h múi giờ Việt Nam), toàn thời gian
-Hoặc part time theo thoả thuận
+Fulltime Remote, từ T2 - T6 (9h - 18h múi giờ Việt Nam), toàn thời gian.
 
 ## Mô tả công việc
 * Phát triền các tính năng mới cho web app theo yêu cầu tính năng, thiết kế và UX
