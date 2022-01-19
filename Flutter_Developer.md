@@ -31,3 +31,4 @@ The Kirin Lab được thành lập năm 2018 với mục tiêu phát triển c�
 ## Liên hệ
 Nếu bạn thấy phù hợp, xin hãy liên hệ và gửi CV cho chúng tôi tới email career@thekirinlab.com
 
+![Job Poster](/images/flutter_dev.jpeg)
