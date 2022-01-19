@@ -1,8 +1,8 @@
 The Kirin Lab cần tuyển 1 Senior Flutter Developer giúp phát triển từ đầu ứng dụng về tư vấn tâm lý của khách hàng nước ngoài.
 
 ## Thời gian, địa điểm
-* 2 vị trí Fulltime Remote, từ T2 - T6 (8h30 - 17h30 múi giờ Việt Nam), làm việc ở bất cứ đâu
-* Có thể bắt đầu ngay hoặc sau Tết.
+* Fulltime Remote, từ T2 - T6 (8h30 - 17h30 múi giờ Việt Nam), làm việc ở bất cứ đâu
+* Đi làm sau Tết.
 
 ## Mô tả công việc
 * Phát triền các tính năng từ đầu cho app theo yêu cầu của khách hàng, thiết kế và UX của team design sử dụng Flutter
