@@ -8,6 +8,7 @@ Fulltime Remote, từ T2 - T6 (8h30 - 17h30 múi giờ Việt Nam), làm việc 
 * Sửa lỗi, hỗ trợ khách hàng
 * Làm việc với đội ngũ thiết kế, API trong công ty
 * Chia sẻ kiến thức, trải nghiệm với các đồng đội trong công ty
+* Thông tin cụ thể về dự án: https://cutt.ly/XUUxnBh
 
 ## Kinh nghiệm
 * Có kinh nghiệm phát triển từ đầu mobile app bằng React Native
@@ -20,16 +21,16 @@ Fulltime Remote, từ T2 - T6 (8h30 - 17h30 múi giờ Việt Nam), làm việc 
 * Có khả năng độc lập tác chiến.
 * Chịu trách nhiệm, chủ động trong công việc
 * Có tinh thần cầu tiến và học hỏi
-* Có khả năng đọc, viết Tiếng Anh
-* Nice to have: Có kinh nghiệm lead team và làm việc với khách hàng nước ngoài.
 
 ## Lợi ích
-* Được làm việc với một dự án được phát triển chuyên nghiệp từ đầu, từ khâu nghiên cứu thị trường, đối thủ cho đến khi ra sản phẩm.
-* Mức lương cạnh tranh với thị trường dựa trên kinh nghiệm và trình độ của ứng viên
+* Tham gia vào một dự án xã hội ý nghĩa, giúp trẻ đặc biệt được hỗ trợ với công cụ hiện đại. Dự án giúp cho các trung tâm hiểu rõ các con hơn đồng thời tiết kiệm thời gian và giúp giảm học phí cho trẻ đặc biệt.
 * Môi trường làm việc thân thiện, được khuyến khích thể hiện cá tính, trình bày quan điểm, chia sẻ kiến thức và được tạo điều kiện tốt nhất cho phát triển cá nhân
-* Được hỗ trợ tận tình khi làm việc với đội ngũ kinh nghiệm, với công nghệ mới nhất
+* Mức lương cạnh tranh với thị trường
+* Cơ hội nâng cao kỹ năng nghề nghiệp khi làm việc với một dự án được phát triển chuyên nghiệp
 * Được giao quyền quyết định và chịu trách nhiệm với quyết định của mình
-* Design và document đầy đủ, rõ ràng
+* Được hỗ trợ tận tình khi làm việc với đội ngũ kinh nghiệm, với công nghệ mới nhất
+* Design và API document đầy đủ, rõ ràng
+
 
 ## Về chúng tôi
 The Kirin Lab được thành lập năm 2018 với mục tiêu phát triển các ứng dụng tốt nhất để giúp khách hàng hiện thực hoá mô hình kinh doanh. The Kirin Lab hiện tại có 10+ thành viên và là công ty làm việc từ xa 100%. Phần lớn khách hàng của The Kirin Lab là các công ty khởi nghiệp ở thị trường nước ngoài như Singapore, Úc, Canada. Bạn có thể tìm hiểu thêm thông tin về công ty trên trang web www.thekirinlab.com
