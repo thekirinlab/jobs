@@ -1,4 +1,4 @@
-The Kirin Lab cần tuyển 1 Frontend Developer giúp phát triển từ đầu web app giáo dục Luca Education. Luca là sản phẩm quản lý giáo dục trẻ đặc biệt đầu tiên ở Việt Nam, được chúng tôi phát triển dựa trên nhu cầu của các trung tâm giáo dục trẻ tự kỷ, chậm nói, tăng động giảm chú ý.
+The Kirin Lab cần tuyển 1 React Native Developer giúp phát triển từ đầu web app giáo dục Luca Education. Luca là sản phẩm quản lý giáo dục trẻ đặc biệt đầu tiên ở Việt Nam, được chúng tôi phát triển dựa trên nhu cầu của các trung tâm giáo dục trẻ tự kỷ, chậm nói, tăng động giảm chú ý.
 
 ## Thời gian, địa điểm
 Fulltime Remote, từ T2 - T6 (8h30 - 17h30 múi giờ Việt Nam), làm việc ở bất cứ đâu
