@@ -2,7 +2,6 @@ The Kirin Lab cần tuyển 1 Flutter Developer giúp phát triển từ đầu 
 
 ## Thời gian, địa điểm
 * Fulltime Remote, từ T2 - T6 (8h30 - 17h30 múi giờ Việt Nam), làm việc ở bất cứ đâu
-* Có thể bắt đầu ngay hoặc sau Tết.
 
 ## Mô tả công việc
 * Phát triền các tính năng từ đầu cho app theo yêu cầu của khách hàng, thiết kế và UX của team design sử dụng Flutter
