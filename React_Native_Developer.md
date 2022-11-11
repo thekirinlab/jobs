@@ -8,22 +8,16 @@ Fulltime Remote, từ T2 - T6 (8h30 - 17h30 múi giờ Việt Nam), làm việc 
 * Sửa lỗi, hỗ trợ khách hàng
 * Làm việc với đội ngũ thiết kế, API trong công ty
 * Chia sẻ kiến thức, trải nghiệm với các đồng đội trong công ty
-* Thông tin cụ thể về dự án: https://cutt.ly/XUUxnBh
+* Thông tin cụ thể về dự án: [https://www.luca.education/](https://www.luca.education/)
 
 ## Kinh nghiệm
-* Có kinh nghiệm phát triển từ đầu mobile app bằng React Native
-* Có ít nhất 2 năm kinh nghiệm làm việc với React Native
+* Có ít nhất 1 năm kinh nghiệm làm việc với React Native
 * Chịu trách nhiệm, chủ động trong công việc
 * Có tinh thần cầu tiến và học hỏi
-
-## Yêu cầu
-* Có ít nhất 2 năm kinh nghiệm làm việc với React Native
 * Có khả năng độc lập tác chiến.
-* Chịu trách nhiệm, chủ động trong công việc
-* Có tinh thần cầu tiến và học hỏi
 
 ## Lợi ích
-* Tham gia vào một dự án xã hội ý nghĩa, giúp trẻ đặc biệt được hỗ trợ với công cụ hiện đại. Dự án giúp cho các trung tâm hiểu rõ các con hơn đồng thời tiết kiệm thời gian và giúp giảm học phí cho trẻ đặc biệt.
+* Tham gia vào một dự án xã hội ý nghĩa, giúp trẻ đặc biệt được hỗ trợ với công cụ hiện đại. Dự án giúp cho các trung tâm hiểu rõ các con hơn đồng thời tiết kiệm thời gian và giúp giảm học phí cho trẻ đặc biệt. Dự án đã ra mắt và được triển khai trên nhiều tỉnh thành trong cả nước.
 * Môi trường làm việc thân thiện, được khuyến khích thể hiện cá tính, trình bày quan điểm, chia sẻ kiến thức và được tạo điều kiện tốt nhất cho phát triển cá nhân
 * Mức lương cạnh tranh với thị trường
 * Cơ hội nâng cao kỹ năng nghề nghiệp khi làm việc với một dự án được phát triển chuyên nghiệp
@@ -33,7 +27,7 @@ Fulltime Remote, từ T2 - T6 (8h30 - 17h30 múi giờ Việt Nam), làm việc 
 
 
 ## Về chúng tôi
-The Kirin Lab được thành lập năm 2018 với mục tiêu phát triển các ứng dụng tốt nhất để giúp khách hàng hiện thực hoá mô hình kinh doanh. The Kirin Lab hiện tại có 10+ thành viên và là công ty làm việc từ xa 100%. Phần lớn khách hàng của The Kirin Lab là các công ty khởi nghiệp ở thị trường nước ngoài như Singapore, Úc, Canada. Bạn có thể tìm hiểu thêm thông tin về công ty trên trang web www.thekirinlab.com
+The Kirin Lab được thành lập năm 2018 với mục tiêu phát triển các ứng dụng tốt nhất để giúp khách hàng hiện thực hoá mô hình kinh doanh. The Kirin Lab hiện tại có 10+ thành viên và là công ty làm việc từ xa 100%. Phần lớn khách hàng của The Kirin Lab là các công ty khởi nghiệp ở thị trường nước ngoài như Singapore, Úc, Canada. Luca Education là sản phầm đầu tiên của chúng tôi với mục đích phát triển cộng đồng. Bạn có thể tìm hiểu thêm thông tin về công ty trên trang web www.thekirinlab.com
 
 ## Liên hệ
 Nếu bạn thấy phù hợp, xin hãy liên hệ và gửi CV cho chúng tôi tới email career@thekirinlab.com
